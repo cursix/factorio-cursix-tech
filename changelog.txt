@@ -1,0 +1,7 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 03. 02. 2018
+  Major Features:
+    - First public release of mod.
+  Changes:
+    - Poison Mushroom now reduces speed by 20% while increasing pollution by 1200%.

@@ -1,0 +1,11 @@
+{
+	"name": "cursix-tech",
+	"version": "1.0.0",
+	"title": "Cursix Tech",
+	"author": "Cursix",
+	"contact": "",
+	"homepage": "",
+	"factorio_version": "0.16",
+	"dependencies": ["base >= 0.16"],
+	"description": "Adds technology that is just insane..."
+}
