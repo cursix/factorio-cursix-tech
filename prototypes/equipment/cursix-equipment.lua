@@ -2,10 +2,10 @@ data:extend(
 {
   {
     type = "energy-shield-equipment",
-    name = "barrier-jacket-shield-equipment",
+    name = "cursix-barrier-jacket-equipment",
     sprite =
     {
-      filename = "__cursix-tech__/graphics/equipment/barrier-jacket-shield-equipment.png",
+      filename = "__cursix-tech__/graphics/equipment/cursix-barrier-jacket-equipment.png",
       width = 256,
       height = 256,
       priority = "medium"
@@ -16,12 +16,12 @@ data:extend(
       height = 4,
       type = "full"
     },
-    max_shield_value = 25000,
+    max_shield_value = 50000,
     energy_source =
     {
       type = "electric",
-      buffer_capacity = "100MJ",
-      input_flow_limit = "555MW",
+      buffer_capacity = "2GJ",
+      input_flow_limit = "600MW",
       usage_priority = "primary-input"
     },
     energy_per_shield = "666kJ",
@@ -29,10 +29,10 @@ data:extend(
   },
   {
     type = "battery-equipment",
-    name = "energy-storage-crystal-equipment",
+    name = "cursix-energy-storage-crystal-equipment",
     sprite =
     {
-      filename = "__cursix-tech__/graphics/equipment/energy-storage-crystal-equipment.png",
+      filename = "__cursix-tech__/graphics/equipment/cursix-energy-storage-crystal-equipment.png",
       width = 64,
       height = 64,
       priority = "medium"
@@ -46,7 +46,7 @@ data:extend(
     energy_source =
     {
       type = "electric",
-      buffer_capacity = "10GJ",
+      buffer_capacity = "20GJ",
       input_flow_limit = "2GW",
       output_flow_limit = "2GW",
       usage_priority = "terciary"
@@ -55,10 +55,10 @@ data:extend(
   },
   {
     type = "generator-equipment",
-    name = "sonic-scrambled-eggs-equipment",
+    name = "cursix-scrambled-eggs-equipment",
     sprite =
     {
-      filename = "__cursix-tech__/graphics/equipment/sonic-scrambled-eggs-equipment.png",
+      filename = "__cursix-tech__/graphics/equipment/cursix-scrambled-eggs-equipment.png",
       width = 64,
       height = 64,
       priority = "medium"
@@ -79,10 +79,10 @@ data:extend(
   },
   {
     type = "movement-bonus-equipment",
-    name = "sonic-speed-shoes-equipment",
+    name = "cursix-speed-shoes-equipment",
     sprite =
     {
-      filename = "__cursix-tech__/graphics/equipment/sonic-speed-shoes-equipment.png",
+      filename = "__cursix-tech__/graphics/equipment/cursix-speed-shoes-equipment.png",
       width = 64,
       height = 64,
       priority = "medium"

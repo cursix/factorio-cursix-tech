@@ -1,4 +1,25 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 13. 03. 2018
+  Changes:
+    - Internal name changes to various items for consistency.
+        "sonic-scrambled-eggs-equipment" -> "cursix-scrambled-eggs-equipment"
+        "barrier-jacket-shield-equipment" -> "cursix-barrier-jacket-equipment"
+        "energy-storage-crystal-equipment" -> "cursix-energy-storage-crystal-equipment"
+        "sonic-speed-shoes-equipment" -> "cursix-speed-shoes-equipment"
+    - Updated Cursix Power Mushroom description.
+    - Renamed "Barrier Jacket Shield" to "Barrier jacket".
+    - Changed stack size of Barrier Jacket from 50 to 500.
+    - Changed stack size of Sonic Speed Shoes from 200 to 500.
+    - Changed stack size of Sonic Scrambled Eggs from 200 to 500.
+    - Changed stack size of Energy Storage Crystal from 100 to 500.
+    - Changes to Barrier Jacket:
+        Max Shield: 25000 -> 50000
+        Input Flow Limit: 555MW -> 600MW
+        Buffer Capacity: 500MJ -> 2GJ
+    - Energy Storage Crystal:
+        Buffer Capacity: 10GJ -> 20GJ
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 03. 02. 2018
   Major Features:

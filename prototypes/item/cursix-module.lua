@@ -3,7 +3,7 @@ data:extend(
   {
     type = "module",
     name = "cursix-mushroom",
-    icon = "__cursix-tech__/graphics/icons/mario-power-mushroom.png",
+    icon = "__cursix-tech__/graphics/icons/cursix-power-mushroom.png",
     icon_size = 64,
     flags = {"goes-to-main-inventory"},
     subgroup = "module",
@@ -22,7 +22,7 @@ data:extend(
   {
     type = "module",
     name = "cursix-1up-mushroom",
-    icon = "__cursix-tech__/graphics/icons/mario-1up-mushroom.png",
+    icon = "__cursix-tech__/graphics/icons/cursix-1up-mushroom.png",
     icon_size = 64,
     flags = {"goes-to-main-inventory"},
     subgroup = "module",
@@ -39,7 +39,7 @@ data:extend(
   {
     type = "module",
     name = "cursix-poison-mushroom",
-    icon = "__cursix-tech__/graphics/icons/mario-poison-mushroom.png",
+    icon = "__cursix-tech__/graphics/icons/cursix-poison-mushroom.png",
     icon_size = 64,
     flags = {"goes-to-main-inventory"},
     subgroup = "module",

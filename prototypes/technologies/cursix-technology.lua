@@ -12,19 +12,19 @@ data:extend({
       },
       {
         type = "unlock-recipe",
-        recipe = "barrier-jacket-shield-equipment"
+        recipe = "cursix-barrier-jacket-equipment"
       },
       {
         type = "unlock-recipe",
-        recipe = "energy-storage-crystal-equipment"
+        recipe = "cursix-energy-storage-crystal-equipment"
       },
       {
         type = "unlock-recipe",
-        recipe = "sonic-scrambled-eggs-equipment"
+        recipe = "cursix-scrambled-eggs-equipment"
       },
       {
         type = "unlock-recipe",
-        recipe = "sonic-speed-shoes-equipment"
+        recipe = "cursix-speed-shoes-equipment"
       },
       {
         type = "unlock-recipe",

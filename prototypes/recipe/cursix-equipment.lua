@@ -2,7 +2,7 @@ data:extend(
 {
   {
     type = "recipe",
-    name = "barrier-jacket-shield-equipment",
+    name = "cursix-barrier-jacket-equipment",
     enabled = false,
     energy_required = 60,
     ingredients =
@@ -12,11 +12,11 @@ data:extend(
 	  {"science-pack-1", 10},
 	  {"science-pack-2", 10}
     },
-    result = "barrier-jacket-shield-equipment"
+    result = "cursix-barrier-jacket-equipment"
   },
   {
     type = "recipe",
-    name = "energy-storage-crystal-equipment",
+    name = "cursix-energy-storage-crystal-equipment",
     enabled = false,
     energy_required = 20,
     ingredients =
@@ -25,11 +25,11 @@ data:extend(
 	  {"copper-cable", 50},
       {"raw-wood", 5}
     },
-    result = "energy-storage-crystal-equipment"
+    result = "cursix-energy-storage-crystal-equipment"
   },
   {
     type = "recipe",
-    name = "sonic-scrambled-eggs-equipment",
+    name = "cursix-scrambled-eggs-equipment",
     enabled = false,
     energy_required = 30,
     ingredients =
@@ -38,11 +38,11 @@ data:extend(
 	  {"stone", 10},
 	  {"iron-ore", 10}
     },
-    result = "sonic-scrambled-eggs-equipment"
+    result = "cursix-scrambled-eggs-equipment"
   },
   {
     type = "recipe",
-    name = "sonic-speed-shoes-equipment",
+    name = "cursix-speed-shoes-equipment",
     enabled = false,
     energy_required = 5,
     ingredients =
@@ -52,7 +52,7 @@ data:extend(
       {"electronic-circuit", 2},
 	  {"coal", 10}
     },
-    result = "sonic-speed-shoes-equipment"
+    result = "cursix-speed-shoes-equipment"
   }
 }
 )
