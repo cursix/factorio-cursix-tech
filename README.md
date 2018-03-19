@@ -26,6 +26,9 @@ Factorio expects mod to be in a folder called cursix-tech_*version* and either p
     - Massive personal battery
   - Sonic Speed Shoes
     - Drastically smaller (1x1) personal speed booster
+- New Research
+  - Worker Robot Battery Research
+    - Increases how long logistic and worker robots can stay out in one charge.
 
 ## Disclaimers
 The graphics/icons/images in this mod were not made by the author and are copyrighted to their respected owners.
