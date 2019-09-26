@@ -7,9 +7,9 @@ data:extend(
     energy_required = 25,
     ingredients =
     {
-      {"raw-wood", 5},
+      {"wood", 5},
       {"iron-gear-wheel", 10},
-	  {"science-pack-2", 1}
+	    {"production-science-pack", 1}
     },
     result = "cursix-mushroom"
   },
@@ -20,9 +20,9 @@ data:extend(
     energy_required = 25,
     ingredients =
 	{
-	  {"raw-wood", 5},
+	  {"wood", 5},
 	  {"stone", 50},
-	  {"science-pack-1", 1}
+	  {"logistic-science-pack", 1}
 	},
     result = "cursix-1up-mushroom"
   },

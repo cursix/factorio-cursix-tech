@@ -1,5 +1,5 @@
 -- Add armor animation to player
-for _, animation in ipairs(data.raw["player"]["player"]["animations"]) do
+for _, animation in ipairs(data.raw["character"]["character"]["animations"]) do
   if animation.armors then
     for _, armor in ipairs(animation.armors) do
       if armor == "power-armor-mk2" then
@@ -17,7 +17,7 @@ data:extend(
     name = "cursix-armor",
     icon = "__cursix-tech__/graphics/icons/cursix-armor.png",
     icon_size = 64,
-    flags = {"goes-to-main-inventory"},
+    flags = {},
     resistances =
     {
       {

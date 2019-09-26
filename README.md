@@ -20,7 +20,7 @@ Factorio expects mod to be in a folder called cursix-tech_*version* and either p
 - New Personal Equipment
   - Sonic Scrambled Eggs
     - Massive personal power generator
-  - Barrier Jacket Shield
+  - Barrier Jacket
     - Massive personal shield generator
   - Energy Storage Crystal
     - Massive personal battery

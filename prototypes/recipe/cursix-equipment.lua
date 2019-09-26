@@ -9,8 +9,7 @@ data:extend(
     {
       {"wood", 10},
       {"electronic-circuit", 50},
-	  {"science-pack-1", 10},
-	  {"science-pack-2", 10}
+	    {"military-science-pack", 10},
     },
     result = "cursix-barrier-jacket-equipment"
   },
@@ -22,8 +21,8 @@ data:extend(
     ingredients =
     {
       {"copper-plate", 10},
-	  {"copper-cable", 50},
-      {"raw-wood", 5}
+	    {"copper-cable", 50},
+      {"wood", 5}
     },
     result = "cursix-energy-storage-crystal-equipment"
   },
@@ -35,8 +34,8 @@ data:extend(
     ingredients =
     {
       {"raw-fish", 2},
-	  {"stone", 10},
-	  {"iron-ore", 10}
+	    {"stone", 10},
+	    {"iron-ore", 10}
     },
     result = "cursix-scrambled-eggs-equipment"
   },
@@ -48,9 +47,9 @@ data:extend(
     ingredients =
     {
       {"wood", 2},
-	  {"iron-gear-wheel", 100},
+	    {"iron-gear-wheel", 100},
       {"electronic-circuit", 2},
-	  {"coal", 10}
+	    {"coal", 10}
     },
     result = "cursix-speed-shoes-equipment"
   }
