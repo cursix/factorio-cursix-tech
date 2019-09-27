@@ -9,7 +9,7 @@ data:extend(
     {
       {"wood", 5},
       {"iron-gear-wheel", 10},
-	    {"production-science-pack", 1}
+	    {"automation-science-pack", 1}
     },
     result = "cursix-mushroom"
   },
