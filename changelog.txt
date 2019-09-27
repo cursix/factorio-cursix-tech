@@ -2,7 +2,7 @@
 Version: 1.0.4
 Date: 27. 09. 2019
   Changes:
-    - Cursix Armor and Cursix Mushroom now use Automation Science Pack
+    - Cursix Armor and Cursix Mushroom recipes now use Automation Science Pack
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.3
 Date: 25. 09. 2019
