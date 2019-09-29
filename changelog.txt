@@ -1,7 +1,8 @@
 Version: 1.0.5
-Date: xx. xx. 2019
+Date: 29. 09. 2019
   Changes:
     - Barrier Jacket recipe changed from 10x Military Science Pack to 1x Automation and 1x Logistic Science Pack
+    - Reduced gears needed for Sonic Shoes to 50
   Bugfixes:
     - Cursix Armor sort order was incorrect
 ---------------------------------------------------------------------------------------------------

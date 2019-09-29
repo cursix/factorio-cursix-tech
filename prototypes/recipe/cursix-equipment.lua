@@ -48,7 +48,7 @@ data:extend(
     ingredients =
     {
       {"wood", 2},
-	    {"iron-gear-wheel", 100},
+	    {"iron-gear-wheel", 50},
       {"electronic-circuit", 2},
 	    {"coal", 10}
     },
