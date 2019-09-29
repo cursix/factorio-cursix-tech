@@ -43,7 +43,7 @@ data:extend(
     },
     durability = 600000,
     subgroup = "armor",
-    order = "e[cursix-armor]",
+    order = "f[cursix-armor]",
     stack_size = 1,
     equipment_grid = "cursix-equipment-grid-12",
     inventory_size_bonus = 60
