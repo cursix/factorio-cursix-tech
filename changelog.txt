@@ -1,3 +1,7 @@
+Version: 1.0.5
+Date: xx. xx. 2019
+  Changes:
+    - Barrier Jacket recipe changed from 10x Military Science Pack to 1x Automation and 1x Logistic Science Pack
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.4
 Date: 27. 09. 2019

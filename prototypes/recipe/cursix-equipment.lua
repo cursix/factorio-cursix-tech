@@ -9,7 +9,8 @@ data:extend(
     {
       {"wood", 10},
       {"electronic-circuit", 50},
-	    {"military-science-pack", 10},
+	    {"automation-science-pack", 1},
+      {"logistic-science-pack", 1}
     },
     result = "cursix-barrier-jacket-equipment"
   },
