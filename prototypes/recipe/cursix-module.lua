@@ -21,7 +21,7 @@ data:extend(
     ingredients =
 	{
 	  {"wood", 5},
-	  {"stone", 50},
+	  {"stone", 10},
 	  {"logistic-science-pack", 1}
 	},
     result = "cursix-1up-mushroom"
