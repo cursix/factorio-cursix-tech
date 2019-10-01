@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.6
-Date: xx. xx. 2019
+Date: 30. 09. 2019
   Changes:
     - 1up Mushroom now requires 10 stones instead of 50
     - Removed modifier-description.worker-robot-battery locale as base game now has it
