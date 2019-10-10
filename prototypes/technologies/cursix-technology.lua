@@ -120,7 +120,7 @@ data:extend({
         modifier = 0.25
       }
     },
-    prerequisites = {"cursix-worker-robots-battery-2"},
+    prerequisites = {"cursix-worker-robots-battery-2", "space-science-pack"},
     unit =
     {
       count_formula = "2^(L-3)*1000",
