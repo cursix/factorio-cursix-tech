@@ -50,7 +50,31 @@ data:extend({
     },
     order = "a-d-e"
   },
-{
+  {
+    type = "technology",
+    name = "cursix-crafting-bear",
+    icon_size = 128,
+    icon = "__cursix-tech__/graphics/technology/cursix-crafting-bear.png",
+    effects =
+    {
+      {
+        type = "character-crafting-speed",
+        modifier = 15
+      }
+    },
+    prerequisites = {"cursix-technology"},
+    unit =
+    {
+      count = 6,
+      ingredients =
+      {
+        {"automation-science-pack", 1}
+      },
+      time = 10
+    },
+    order = "a-d-e-a"
+  },
+  {
     type = "technology",
     name = "cursix-worker-robots-battery-1",
     icon_size = 128,

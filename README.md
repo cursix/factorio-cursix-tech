@@ -29,6 +29,8 @@ Factorio expects mod to be in a folder called cursix-tech_*version* and either p
 - New Research
   - Worker Robot Battery Research
     - Increases how long logistic and worker robots can stay out in one charge.
+  - Cursix Crafting Bear
+    - Increases player's crafting speed.
 
 ## Disclaimers
 The graphics/icons/images in this mod were not made by the author and are copyrighted to their respected owners.
