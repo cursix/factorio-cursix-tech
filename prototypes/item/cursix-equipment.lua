@@ -48,5 +48,17 @@ data:extend(
     stack_size = 500,
 	default_request_ammount = 10
   },
+  {
+    type = "item",
+    name = "cursix-axel-shooter-equipment",
+    icon = "__cursix-tech__/graphics/icons/cursix-axel-shooter-equipment.png",
+	  icon_size = 64,
+    placed_as_equipment_result = "cursix-axel-shooter-equipment",
+    flags = {},
+    subgroup = "equipment",
+    order = "b[active-defense]-a[cursix-axel-shooter-equipment]",
+    stack_size = 500,
+    default_request_amount = 10
+  },
 }
 )

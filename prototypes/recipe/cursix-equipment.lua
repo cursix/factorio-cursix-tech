@@ -53,6 +53,19 @@ data:extend(
 	    {"coal", 10}
     },
     result = "cursix-speed-shoes-equipment"
+  },
+  {
+    type = "recipe",
+    name = "cursix-axel-shooter-equipment",
+    enabled = false,
+    energy_required = 10,
+    ingredients =
+    {
+      {"cursix-energy-storage-crystal-equipment", 1},
+      {"wood", 5},
+      {"electronic-circuit", 10}
+    },
+    result = "cursix-axel-shooter-equipment"
   }
 }
 )

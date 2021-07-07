@@ -1,3 +1,9 @@
+Version: 1.0.10
+Date: 06. 07. 2021
+  Minor Features:
+    - Added Axel Shooter Equipment
+  Changes:
+    - Storage Crystal now stores 100GJ of power, charges/discharges at 5GW
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.9
 Date: 06. 02. 2021
