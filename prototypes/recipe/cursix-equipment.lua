@@ -4,13 +4,12 @@ data:extend(
     type = "recipe",
     name = "cursix-barrier-jacket-equipment",
     enabled = false,
-    energy_required = 60,
+    energy_required = 25,
     ingredients =
     {
       {"wood", 10},
       {"electronic-circuit", 50},
-	    {"automation-science-pack", 1},
-      {"logistic-science-pack", 1}
+      {"cursix-energy-storage-crystal-equipment", 1}
     },
     result = "cursix-barrier-jacket-equipment"
   },
@@ -49,7 +48,6 @@ data:extend(
     {
       {"wood", 2},
 	    {"iron-gear-wheel", 50},
-      {"electronic-circuit", 2},
 	    {"coal", 10}
     },
     result = "cursix-speed-shoes-equipment"

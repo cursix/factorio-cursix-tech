@@ -1,4 +1,23 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.11
+Date: 10. 07. 2021
+  Minor Features:
+    - Added Cursix Beacon
+  Changes:
+    - Barrier Jacket recipe changed
+      - 10x Wood
+      - 50x Eletronic Circuits
+      - 1x Cursix Energy Storage Cyrstal
+      - Craftime (at 1x): 25 seconds
+    - Cursix Speed Shoes recipe changed
+      - 2x Wood
+      - 50x Iron Gears
+      - 10x Coal
+    - Cursix Armor recipe changed
+      - 100x Iron Plates
+      - 100x Copper Plates
+      - 25x Wood
+---------------------------------------------------------------------------------------------------
 Version: 1.0.10
 Date: 06. 07. 2021
   Minor Features:

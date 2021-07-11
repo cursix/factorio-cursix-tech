@@ -9,8 +9,7 @@ data:extend(
     {
       {"iron-plate", 100},
       {"copper-plate", 100},
-	    {"wood", 25},
-	    {"automation-science-pack", 1}
+	    {"wood", 25}
     },
     result = "cursix-armor"
   },
