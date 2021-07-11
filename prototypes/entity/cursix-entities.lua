@@ -1,3 +1,5 @@
+local sounds = require '__base__/prototypes/entity/sounds.lua'
+
 data:extend(
 {
   {
@@ -62,6 +64,14 @@ data:extend(
       }
 	  },
     
+    radius_visualisation_picture =
+    {
+      filename = "__base__/graphics/entity/beacon/beacon-radius-visualization.png",
+      priority = "extra-high-no-scale",
+      width = 10,
+      height = 10
+    },
+    
     supply_area_distance = 8,
     energy_source =
     {
@@ -95,7 +105,7 @@ data:extend(
     {
       module_slots = 2,
       module_info_icon_shift = {0, 0},
-      module_info_multi_row_initial_height_modifier = -0.3,
+      module_info_multi_row_initial_height_modifier = 1.0,
       module_info_max_icons_per_row = 2
     }
   }

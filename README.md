@@ -4,12 +4,15 @@ Simple AI bashing mod for Factorio
 Factorio expects mod to be in a folder called cursix-tech_*version* and either placed in the mod directory as is or zipped up using the same naming scheme.
 
 ## Features:
+- New Buildings
+  - Cursix Beacon
+    - 1x1 Beacon that consumes far less power and greater transmission range
 - New Modules
   - Cursix Power Mushroom
     - Increases speed and reduces energy and pollution
   - Cursix 1-Up Mushroom
     - Doubles productivity
-      - Not useable in Beacons
+      - Not useable in normal beacons
   - Cursix Poison Mushroom
     - Slows speed, drastically increases pollution
 - New Armor
