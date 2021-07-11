@@ -3,7 +3,7 @@ data:extend(
   {
     type = "item",
     name = "cursix-beacon",
-    icon = "__logtech-beacon__/graphics/icons/cursix-beacon.png",
+    icon = "__cursix-tech__/graphics/icons/cursix-beacon.png",
 	  icon_size = 32,
     subgroup = "logistic-network",
     order = "a[beacon]-a[cursix]",

@@ -3,7 +3,7 @@ data:extend(
   {
     type = "beacon",
     name = "cursix-beacon",
-    icon = "__logtech-beacon__/graphics/icons/cursix-beacon.png",
+    icon = "__cursix-tech__/graphics/icons/cursix-beacon.png",
 	  icon_size = 32,
     flags = {"placeable-player", "player-creation"},
     minable = {hardness = 0.2, mining_time = 0.5, result = "cursix-beacon"},
@@ -28,13 +28,13 @@ data:extend(
     base_picture = {
     	layers = {
         {
-          filename = "__logtech-beacon__/graphics/entity/cursix-beacon.png",
+          filename = "__cursix-tech__/graphics/entity/cursix-beacon.png",
           priority = "extra-high",
           width = 30,
           height = 89,
           shift = util.by_pixel(-2, -39.5),
           hr_version = {
-            filename = "__logtech-beacon__/graphics/entity/hr-cursix-beacon.png",
+            filename = "__cursix-tech__/graphics/entity/hr-cursix-beacon.png",
             priority = "extra-high",
             width = 59,
             height = 178,
@@ -43,14 +43,14 @@ data:extend(
           }
         },
         {
-          filename = "__logtech-beacon__/graphics/entity/cursix-beacon-shadow.png",
+          filename = "__cursix-tech__/graphics/entity/cursix-beacon-shadow.png",
           priority = "extra-high",
           width = 119,
           height = 25,
           shift = util.by_pixel(52.5, -2.5),
           draw_as_shadow = true,
           hr_version = {
-            filename = "__logtech-beacon__/graphics/entity/hr-cursix-beacon-shadow.png",
+            filename = "__cursix-tech__/graphics/entity/hr-cursix-beacon-shadow.png",
             priority = "extra-high",
             width = 237,
             height = 50,
@@ -62,7 +62,7 @@ data:extend(
       }
 	  },
     
-    supply_area_distance = 3,
+    supply_area_distance = 8,
     energy_source =
     {
       type = "electric",
