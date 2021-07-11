@@ -36,3 +36,7 @@ Factorio expects mod to be in a folder called cursix-tech_*version* and either p
 
 ## Disclaimers
 The graphics/icons/images in this mod were not made by the author and are copyrighted to their respected owners.
+
+## Credits
+- Cursix Beacon
+  - Beacon model imported from [Logistic Technology Beacon](https://mods.factorio.com/mod/logtech-beacon) mod.

@@ -13,6 +13,19 @@ data:extend(
 	    {"automation-science-pack", 1}
     },
     result = "cursix-armor"
+  },
+  {
+    type = "recipe",
+    name = "cursix-beacon",
+    enabled = false,
+    energy_required = 10,
+    ingredients =
+    {
+      {"iron-plate", 10},
+      {"electronic-circuit", 5},
+	    {"cursix-mushroom", 1}
+    },
+    result = "cursix-beacon"
   }
 }
 )

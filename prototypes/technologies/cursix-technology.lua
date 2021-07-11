@@ -38,6 +38,10 @@ data:extend({
         type = "unlock-recipe",
         recipe = "cursix-poison-mushroom"
       },
+    {
+        type = "unlock-recipe",
+        recipe = "cursix-beacon"
+      },
     {   type = "unlock-recipe",
         recipe = "cursix-axel-shooter-equipment"
       }
