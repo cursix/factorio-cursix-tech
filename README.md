@@ -12,7 +12,7 @@ Factorio expects mod to be in a folder called cursix-tech_*version* and either p
     - Increases speed and reduces energy and pollution
   - Cursix 1-Up Mushroom
     - Doubles productivity
-      - Not useable in normal beacons
+      - Not usable in normal beacons
   - Cursix Poison Mushroom
     - Slows speed, drastically increases pollution
 - New Armor

@@ -39,7 +39,7 @@ Version: 1.0.7
 Date: 10. 10. 2019
   Minor Features:
     - Added Cursix Crafting Bear Tech; increases character's crafting speed
-  Bugfixs:
+  Bugfixes:
     - Worker Robot Battery 3 was avaible before Space Science Pack was researched
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.6
