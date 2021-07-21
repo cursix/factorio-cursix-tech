@@ -41,7 +41,6 @@ data:extend(
         percent = 100
       }
     },
-    durability = 600000,
     subgroup = "armor",
     order = "f[cursix-armor]",
     stack_size = 1,
