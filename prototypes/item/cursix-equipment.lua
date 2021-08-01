@@ -84,5 +84,17 @@ data:extend(
     stack_size = 500,
     default_request_amount = 10
   },
+  {
+    type = "item",
+    name = "cursix-moogle-roboport-equipment",
+    icon = "__cursix-tech__/graphics/icons/cursix-moogle-roboport-equipment.png",
+	  icon_size = 64,
+    placed_as_equipment_result = "cursix-moogle-roboport-equipment",
+    flags = {},
+    subgroup = "equipment",
+    order = "e[robotics]-c[cursix-moogle-roboport-equipment]",
+    stack_size = 500,
+    default_request_amount = 20
+  }
 }
 )

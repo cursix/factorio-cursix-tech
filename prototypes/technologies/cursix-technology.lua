@@ -187,7 +187,7 @@ data:extend({
         recipe = "cursix-akane-eggs-equipment"
       }
     },
-    prerequisites = {"space-science-pack"},
+    prerequisites = {"cursix-technology", "space-science-pack"},
     unit =
     {
       count = 666,
@@ -199,4 +199,30 @@ data:extend({
     },
     order = "a-d-f"
   },
+  {
+    type = "technology",
+    name = "cursix-moogle-roboport-equipment",
+    icon_size = 128,
+    icon = "__cursix-tech__/graphics/technology/cursix-moogle-roboport-equipment.png",
+    effects =
+    {
+      {
+        type = "unlock-recipe",
+        recipe = "cursix-moogle-roboport-equipment"
+      }
+    },
+    prerequisites = {"cursix-technology", "personal-roboport-equipment"},
+    unit =
+    {
+      count = 60,
+      ingredients =
+      {
+        {"automation-science-pack", 1},
+        {"logistic-science-pack", 1},
+        {"chemical-science-pack", 1}
+      },
+      time = 10
+    },
+    order = "c-k-d-zzz"
+  }
 })

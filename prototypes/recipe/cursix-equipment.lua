@@ -93,6 +93,21 @@ data:extend(
       {"electronic-circuit", 10}
     },
     result = "cursix-axel-shooter-equipment"
+  },
+  {
+    type = "recipe",
+    name = "cursix-moogle-roboport-equipment",
+    enabled = false,
+    energy_required = 10,
+    ingredients =
+    {
+      {"personal-roboport-equipment", 1},
+      {"cursix-energy-storage-crystal-equipment", 1},
+      {"cursix-axel-shooter-equipment", 1},
+      {"coal", 10},
+      {"plastic-bar", 10}
+    },
+    result = "cursix-moogle-roboport-equipment"
   }
 }
 )

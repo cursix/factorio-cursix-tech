@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.12
+Date: 31. 07. 2021
+  Minor Features:
+    - Cursix Tech Lvl 2 Added
+      - Barrier Jacket Mk 2
+      - Akane Eggs
+    - Moogle Roboport
+  Changes:
+    - Cursix Armor no longer has durability
+    - Some Description Changes
+---------------------------------------------------------------------------------------------------
 Version: 1.0.11
 Date: 10. 07. 2021
   Minor Features:
