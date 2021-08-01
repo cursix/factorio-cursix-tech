@@ -28,6 +28,33 @@ data:extend(
     categories = {"armor"}
   },
   {
+    type = "energy-shield-equipment",
+    name = "cursix-barrier-jacket-mk2-equipment",
+    sprite =
+    {
+      filename = "__cursix-tech__/graphics/equipment/cursix-barrier-jacket-mk2-equipment.png",
+      width = 256,
+      height = 256,
+      priority = "medium"
+    },
+    shape =
+    {
+      width = 4,
+      height = 4,
+      type = "full"
+    },
+    max_shield_value = 100000,
+    energy_source =
+    {
+      type = "electric",
+      buffer_capacity = "5GJ",
+      input_flow_limit = "1.2GW",
+      usage_priority = "primary-input"
+    },
+    energy_per_shield = "1000kJ",
+    categories = {"armor"}
+  },
+  {
     type = "battery-equipment",
     name = "cursix-energy-storage-crystal-equipment",
     sprite =
@@ -75,6 +102,30 @@ data:extend(
       usage_priority = "primary-output"
     },
     power = "500MW",
+    categories = {"armor"}
+  },
+  {
+    type = "generator-equipment",
+    name = "cursix-akane-eggs-equipment",
+    sprite =
+    {
+      filename = "__cursix-tech__/graphics/equipment/cursix-akane-eggs-equipment.png",
+      width = 64,
+      height = 64,
+      priority = "medium"
+    },
+    shape =
+    {
+      width = 1,
+      height = 1,
+      type = "full"
+    },
+    energy_source =
+    {
+      type = "electric",
+      usage_priority = "primary-output"
+    },
+    power = "1GW",
     categories = {"armor"}
   },
   {

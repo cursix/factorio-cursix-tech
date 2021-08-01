@@ -15,6 +15,21 @@ data:extend(
   },
   {
     type = "recipe",
+    name = "cursix-barrier-jacket-mk2-equipment",
+    enabled = false,
+    energy_required = 60,
+    ingredients =
+    {
+      {"cursix-barrier-jacket-equipment", 1},
+      {"steel-plate", 10},
+      {"cursix-energy-storage-crystal-equipment", 2},
+      {"processing-unit", 1},
+      {"raw-fish", 50}
+    },
+    result = "cursix-barrier-jacket-mk2-equipment"
+  },
+  {
+    type = "recipe",
     name = "cursix-energy-storage-crystal-equipment",
     enabled = false,
     energy_required = 20,
@@ -38,6 +53,20 @@ data:extend(
 	    {"iron-ore", 10}
     },
     result = "cursix-scrambled-eggs-equipment"
+  },
+  {
+    type = "recipe",
+    name = "cursix-akane-eggs-equipment",
+    enabled = false,
+    energy_required = 60,
+    ingredients =
+    {
+      {"cursix-scrambled-eggs-equipment", 4},
+	    {"raw-fish", 10},
+	    {"uranium-238", 60},
+      {"stone-brick", 4}
+    },
+    result = "cursix-akane-eggs-equipment"
   },
   {
     type = "recipe",

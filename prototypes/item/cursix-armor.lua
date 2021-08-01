@@ -44,6 +44,7 @@ data:extend(
     subgroup = "armor",
     order = "f[cursix-armor]",
     stack_size = 1,
+    infinite = true,
     equipment_grid = "cursix-equipment-grid-12",
     inventory_size_bonus = 60
   }

@@ -170,4 +170,33 @@ data:extend({
     upgrade = true,
     order = "c-k-g-e"
   },
+  {
+    type = "technology",
+    name = "cursix-technology-2",
+    icon = "__cursix-tech__/graphics/technology/cursix-technology-2.png",
+    icon_size = 128,
+    localised_description = {"technology-description.cursix-technology-2"},
+    effects =
+    {
+      {
+        type = "unlock-recipe",
+        recipe = "cursix-barrier-jacket-mk2-equipment"
+      },
+      {
+        type = "unlock-recipe",
+        recipe = "cursix-akane-eggs-equipment"
+      }
+    },
+    prerequisites = {"space-science-pack"},
+    unit =
+    {
+      count = 666,
+      ingredients =
+      {
+        {"space-science-pack", 1}
+      },
+      time = 10
+    },
+    order = "a-d-f"
+  },
 })
