@@ -31,6 +31,12 @@ Factorio expects mod to be in a folder called cursix-tech_*version* and either p
     - Drastically smaller (1x1) personal speed booster
   - Cursix Axel Shooter
     - Improved Personal Defense System
+  - Personal Moogle Roboport
+    - Personal Roboport with greater range, drone capacity as well as faster recharge
+  - Akane Eggs
+    - Advance version of Sonic Scrambled Eggs
+  -  Barrier Jacket Mk. 2
+    - More powerful version of the Barrior Jacket
 - New Research
   - Worker Robot Battery Research
     - Increases how long logistic and worker robots can stay out in one charge.
