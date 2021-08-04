@@ -230,7 +230,7 @@ data:extend(
     },
     charging_energy = "3MW",
 
-    robot_limit = 50,
+    robot_limit = 100,
     construction_radius = 60,
     spawn_and_station_height = 0.4,
     spawn_and_station_shadow_height_offset = 0.5,
