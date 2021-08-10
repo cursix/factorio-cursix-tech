@@ -1,3 +1,12 @@
+-- If Bob's Vehicle Equipment mod is on, Update Cursix Equipment
+-- to be compatible with Vehicles
+
+if mods["bobvehicleequipment"] then
+  cursix-equipment-categories = {"armor", "vehicle"}
+else
+  cursix-equipment-categories = {"armor"}
+end
+
 data:extend(
 {
   {
@@ -25,7 +34,7 @@ data:extend(
       usage_priority = "primary-input"
     },
     energy_per_shield = "666kJ",
-    categories = {"armor"}
+    categories = cursix-equipment-categories
   },
   {
     type = "energy-shield-equipment",
@@ -52,7 +61,7 @@ data:extend(
       usage_priority = "primary-input"
     },
     energy_per_shield = "1000kJ",
-    categories = {"armor"}
+    categories = cursix-equipment-categories
   },
   {
     type = "battery-equipment",
@@ -78,7 +87,7 @@ data:extend(
       output_flow_limit = "5GW",
       usage_priority = "tertiary"
     },
-    categories = {"armor"}
+    categories = cursix-equipment-categories
   },
   {
     type = "generator-equipment",
@@ -102,7 +111,7 @@ data:extend(
       usage_priority = "primary-output"
     },
     power = "500MW",
-    categories = {"armor"}
+    categories = cursix-equipment-categories
   },
   {
     type = "generator-equipment",
@@ -126,7 +135,7 @@ data:extend(
       usage_priority = "primary-output"
     },
     power = "1GW",
-    categories = {"armor"}
+    categories = cursix-equipment-categories
   },
   {
     type = "movement-bonus-equipment",
@@ -151,7 +160,7 @@ data:extend(
     },
     energy_consumption = "5.5MW",
     movement_bonus = 0.25,
-    categories = {"armor"}
+    categories = cursix-equipment-categories
   },
   {
     type = "active-defense-equipment",
@@ -202,7 +211,7 @@ data:extend(
     },
 
     automatic = true,
-    categories = {"armor"}
+    categories = cursix-equipment-categories
   },
   {
     type = "roboport-equipment",
@@ -254,7 +263,7 @@ data:extend(
     charging_station_count = 50,
     charging_distance = 1.6,
     charging_threshold_distance = 5,
-    categories = {"armor"}
+    categories = cursix-equipment-categories
   }
 }
 )
