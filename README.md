@@ -49,3 +49,11 @@ The graphics/icons/images in this mod were not made by the author and are copyri
 ## Credits
 - Cursix Beacon
   - Beacon model imported from [Logistic Technology Beacon](https://mods.factorio.com/mod/logtech-beacon) mod.
+- Cursix Power Mushroom, 1-Up Mushroom and Poison Mushroom
+  - Super Mario Brothers from Nintendo
+- Barrier Jacket, Barrier Jacket Mk 2, Cursix Axel Shooter
+  - Magical Girl Lyrical Nanoha Series
+- Sonic Speed Shoes
+  - Sonic The Hedgehog from Sega
+- Personal Moogle Roboport
+  - Moogles taking from Final Fantasy from Square Enix
