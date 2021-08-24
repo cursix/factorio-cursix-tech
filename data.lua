@@ -1,3 +1,4 @@
+require("prototypes.damage-type")
 require("prototypes.equipment.cursix-equipment")
 require("prototypes.item.cursix-armor")
 require("prototypes.item.cursix-equipment")

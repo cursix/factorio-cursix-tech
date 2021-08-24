@@ -39,7 +39,17 @@ data:extend(
         type = "fire",
         decrease = 0,
         percent = 100
-      }
+      },
+      {
+        type = "electric",
+        decrease = 0,
+        percent = 100
+      },
+      {
+        type = "plasma",
+        decrease = 1000,
+        percent = 80
+      },
     },
     subgroup = "armor",
     order = "f[cursix-armor]",
