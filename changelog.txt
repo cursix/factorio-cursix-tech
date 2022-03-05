@@ -2,6 +2,10 @@
 Version: 1.0.15
 Date: 05. 03. 2022
   Changes:
+    - Added Plasma Damage Type to Mod
+    - Cursix Armor resistance adjusted
+      - Immune to Electric
+      - 1000/80% to Plasma
     - Description change for Poison Mushroom
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.14
