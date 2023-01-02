@@ -14,8 +14,6 @@ data:extend(
 	  collision_box = {{-0.1, -0.1}, {0.1, 0.1}}, 
     selection_box = {{-0.5, -0.5}, {0.5, 0.5}},
 	  drawing_box = {{-1.0, -2.0}, {1.0, -0.5}},
---  Let this item be used in SE Space
-    se_allow_in_space = true,
     resistances =
     {
       {
